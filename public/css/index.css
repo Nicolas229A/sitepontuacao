@@ -2,13 +2,15 @@
   color: #ffffff;
   text-align: center;
 }
-.colocacao {
+/*.colocacao {
 }
+*/
 .nome {
   font-weight: bold;
 }
-.pontos {
+/*.pontos {
 }
+*/
 #cor1 {
   color: #ff0000;
 }
@@ -18,5 +20,6 @@
 #cor3 {
   color: #929090;
 }
-#botao {
+/*#botao {
 }
+*/
