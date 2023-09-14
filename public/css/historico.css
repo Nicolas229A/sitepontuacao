@@ -1,0 +1,25 @@
+.titulo {
+  color: #ffffff;
+  text-align: center;
+}
+
+#branco {
+  color: #929090;
+}
+
+#vermelho {
+  color: #ff0000;
+}
+
+#roxo {
+  color: #cd31cd;
+}
+
+#contagem {
+  color: black;
+  font-weight: bold;
+}
+
+#dia {
+  font-weight: bold;
+}
