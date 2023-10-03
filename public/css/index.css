@@ -20,7 +20,7 @@
 #cor3 {
   color: #929090;
 }
-.botao {
-  display: grid;
-  place-items: center;
+.botoesEspacados {
+  display: grid !important;
+  place-items: center !important;
 }
