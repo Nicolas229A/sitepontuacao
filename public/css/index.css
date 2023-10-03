@@ -20,6 +20,7 @@
 #cor3 {
   color: #929090;
 }
-/*#botao {
+.botao {
+  display: grid;
+  place-items: center;
 }
-*/
