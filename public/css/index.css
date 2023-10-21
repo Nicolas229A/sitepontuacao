@@ -24,3 +24,7 @@
   display: grid !important;
   place-items: center !important;
 }
+
+#footerzera {
+  color: #ffffff;
+}

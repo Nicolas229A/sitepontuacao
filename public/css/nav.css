@@ -1,0 +1,14 @@
+.imgnav {
+  max-width: 50px;
+  max-height: 37px;
+  width: auto;
+  height: auto;
+}
+
+.navbar {
+  background-color: #0e1726;
+}
+
+#navbichins:hover {
+  color: #929090;
+}
