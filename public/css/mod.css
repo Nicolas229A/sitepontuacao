@@ -1,0 +1,122 @@
+.carousel {
+  margin-bottom: 4rem;
+}
+
+.carousel-caption {
+  bottom: 3rem;
+  z-index: 10;
+}
+
+.carousel-item {
+  height: 32rem;
+}
+
+.container {
+  color: #ffffff;
+}
+
+.titulo {
+  color: #ffffff;
+  text-align: center;
+}
+
+.img-thumbnail {
+  width: 140px;
+  height: 140px;
+  border-radius: 50% !important;
+  border: 0px !important;
+  padding: 0% !important;
+}
+
+.img-fluid {
+  border-radius: 5% !important;
+}
+
+#masbah {
+  height: 200px;
+}
+
+.fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 122px;
+  height: 38px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 20%;
+  transition: transform 0.2s;
+}
+
+.fa-instagram {
+  background: #0d6efd;
+  color: white;
+}
+
+#timemeh {
+  background: #929090 !important;
+}
+
+#timeruim {
+  background: #ff0000 !important;
+}
+
+#timepessimo {
+  background: #cd31cd !important;
+}
+
+.fa:hover {
+  transform: scale(1.1);
+}
+
+.fa-instagram:hover {
+  color: #ffffff;
+}
+
+.baixar {
+  display: grid !important;
+  place-items: center !important;
+}
+
+.carousel-control-prev {
+  bottom: 250px !important;
+}
+
+.carousel-control-next {
+  bottom: 250px !important;
+}
+
+.marketing .col-lg-4 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.marketing .col-lg-4 p {
+  margin-right: 0.75rem;
+  margin-left: 0.75rem;
+}
+
+.featurette-divider {
+  margin: 5rem 0;
+}
+
+.featurette-heading {
+  letter-spacing: -0.05rem;
+}
+
+@media (min-width: 40em) {
+  .carousel-caption p {
+    margin-bottom: 1.25rem;
+    font-size: 1.25rem;
+    line-height: 1.4;
+  }
+
+  .featurette-heading {
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 62em) {
+  .featurette-heading {
+    margin-top: 7rem;
+  }
+}
